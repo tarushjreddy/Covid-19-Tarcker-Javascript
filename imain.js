@@ -97,7 +97,7 @@ details();
 
 // =----------
 function details() {
-    fetch('http://my-json-server.typicode.com/developerking9/indiacovid/IndiaCaseReport/1')
+    fetch('https://my-json-server.typicode.com/developerking9/indiacovid/IndiaCaseReport/1')
         .then(function (resp) {
             return resp.json();
         }).then(function (data) {
@@ -144,7 +144,7 @@ function details() {
 // / =----------
 detailss();
 function detailss() {
-    fetch('http://my-json-server.typicode.com/developerking9/karnatakacoviddata/IndiaCaseReport/1')
+    fetch('https://my-json-server.typicode.com/developerking9/karnatakacoviddata/IndiaCaseReport/1')
         .then(function (resp) {
             return resp.json();
         }).then(function (data) {
@@ -190,7 +190,7 @@ function detailss() {
 }
 detailsss()
 function detailsss() {
-    fetch('http://my-json-server.typicode.com/developerking9/maharashtracoviddata/MaharastraCaseReport/1')
+    fetch('https://my-json-server.typicode.com/developerking9/maharashtracoviddata/MaharastraCaseReport/1')
         .then(function (resp) {
             return resp.json();
         }).then(function (data) {
@@ -237,7 +237,7 @@ function detailsss() {
 
 detailssss()
 function detailssss() {
-    fetch('http://my-json-server.typicode.com/developerking9/gujuratcasedata/gujuratcasereport/1')
+    fetch('https://my-json-server.typicode.com/developerking9/gujuratcasedata/gujuratcasereport/1')
         .then(function (resp) {
             return resp.json();
         }).then(function (data) {
@@ -285,7 +285,7 @@ function detailssss() {
 
 detailsssss()
 function detailsssss() {
-    fetch('http://my-json-server.typicode.com/developerking9/tamilnaducoviddata/TamilnaduCaseReport/1')
+    fetch('https://my-json-server.typicode.com/developerking9/tamilnaducoviddata/TamilnaduCaseReport/1')
         .then(function (resp) {
             return resp.json();
         }).then(function (data) {
@@ -343,7 +343,7 @@ function showPage() {
 
 detailssssss()
 function detailssssss() {
-    fetch('http://my-json-server.typicode.com/developerking9/andhrapradeshcasedata/IndiaCaseReport/1')
+    fetch('https://my-json-server.typicode.com/developerking9/andhrapradeshcasedata/IndiaCaseReport/1')
         .then(function (resp) {
             return resp.json();
         }).then(function (data) {
