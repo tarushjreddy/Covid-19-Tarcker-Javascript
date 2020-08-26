@@ -1,0 +1,18 @@
+{
+  "IndiaCaseReport": [
+    {
+      "id": 1,
+      "Name": "India (इंडिया)",
+      "TotalCases": "2268675",
+      "TotalDeaths": "45257",
+      "TotalRecovered": "1583489",
+      "TotalCaseso": "2.26M",
+      "TotalDeathsw": "45.26K",
+      "TotalRecoveredr": "1.58M",
+      "TotalInc": "52.12K+",
+      "TotalDec": "775+",
+      "TotalRec": "32.55K+",
+      "Condition": "Need to improve"
+    }
+  ]
+}
